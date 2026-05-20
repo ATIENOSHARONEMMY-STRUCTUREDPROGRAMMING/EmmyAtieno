@@ -1,6 +1,6 @@
 # Multi-Tier Sacco Transit Payment System
 
-A C++ console application simulating a real-world public transport fare collection system for a Kiambu Sacco (matatu cooperative). The system models a three-tier architecture — from passenger interaction all the way to corporate treasury settlement — with full support for cash and digital wallet payments.
+A C++ console application simulating a real-world public transport fare collection system for a Kenyan Sacco (matatu cooperative). The system models a three-tier architecture — from passenger interaction all the way to corporate treasury settlement — with full support for cash and digital wallet payments.
 
 ---
 
